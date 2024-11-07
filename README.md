@@ -1,4 +1,7 @@
 ## WELCOME 👋
+My Name is Martin Kaliman, i am a student of Computer Science in the University of Malaga.
+I am passionate about web developing and front-end.
+I am always learning new techonolgies and skills to do the best job possible.
 
 <!--
 **MartinKalimanS/MartinKalimanS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
