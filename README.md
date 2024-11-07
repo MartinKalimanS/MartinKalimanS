@@ -1,5 +1,5 @@
 ## WELCOME 👋
-My Name is Martin Kaliman, i am a student of Computer Science in the University of Malaga <br/>.
+My Name is Martin Kaliman, i am a student of Computer Science in the University of Malaga.
 I am passionate about web developing and front-end<br/>.
 I am always learning new techonolgies and skills to do the best job possible<br/>.
 
