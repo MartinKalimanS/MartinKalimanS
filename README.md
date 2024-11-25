@@ -54,14 +54,3 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   </a>
 </p>
-
-<h3 align="left">Pinned Repositories:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/martinkalimans/repo1/main/demo.gif" alt="Repo 1" width="400" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/martinkalimans/repo2/main/demo.gif" alt="Repo 2" width="400" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/martinkalimans/repo3/main/demo.gif" alt="Repo 3" width="400" style="margin: 0 10px;" />
-</p>
-
-<p align="center">
-  <i>Swipe through to see my top projects!</i>
-</p>
