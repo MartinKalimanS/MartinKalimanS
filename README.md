@@ -54,3 +54,11 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   </a>
 </p>
+
+<h3 align="left">Pinned Repositories:</h3>
+<p align="left">
+  - <a href="https://github.com/martinkalimans/repo1" target="_blank">Repo 1</a>: A brief description of what this repository is about.<br>
+  - <a href="https://github.com/martinkalimans/repo2" target="_blank">Repo 2</a>: A brief description of what this repository is about.<br>
+  - <a href="https://github.com/martinkalimans/repo3" target="_blank">Repo 3</a>: A brief description of what this repository is about.<br>
+  - <a href="https://github.com/martinkalimans/repo4" target="_blank">Repo 4</a>: A brief description of what this repository is about.
+</p>
