@@ -56,9 +56,12 @@
 </p>
 
 <h3 align="left">Pinned Repositories:</h3>
-<p align="left">
-  - <a href="https://github.com/martinkalimans/repo1" target="_blank">Repo 1</a>: A brief description of what this repository is about.<br>
-  - <a href="https://github.com/martinkalimans/repo2" target="_blank">Repo 2</a>: A brief description of what this repository is about.<br>
-  - <a href="https://github.com/martinkalimans/repo3" target="_blank">Repo 3</a>: A brief description of what this repository is about.<br>
-  - <a href="https://github.com/martinkalimans/repo4" target="_blank">Repo 4</a>: A brief description of what this repository is about.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/martinkalimans/repo1/main/demo.gif" alt="Repo 1" width="400" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/martinkalimans/repo2/main/demo.gif" alt="Repo 2" width="400" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/martinkalimans/repo3/main/demo.gif" alt="Repo 3" width="400" style="margin: 0 10px;" />
+</p>
+
+<p align="center">
+  <i>Swipe through to see my top projects!</i>
 </p>
